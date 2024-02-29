@@ -1,0 +1,35 @@
+.code-title {
+  color: #f7f7ff;
+}
+
+.code-variable {
+  color: #ff6863;
+}
+
+.code-variable-name {
+  color: #b175f5;
+}
+
+.code-variable-type {
+  color: #fbb4b3;
+}
+
+.code-variable-extension {
+  color: #dcbbfe;
+}
+
+.code-angle {
+  color: #292824;
+}
+
+.code-bracket {
+  color: #292824;
+}
+
+.code-semicolon {
+  color: #292824;
+}
+
+.code-variable-start {
+  color: #292824;
+}/*# sourceMappingURL=code.css.map */

@@ -1,0 +1,37 @@
+@import 'col/dark.scss';
+
+.code-title{
+    color: $code-title;
+}
+
+.code-variable {
+    color: $code-variable;
+}
+
+.code-variable-name {
+    color: $code-variable-name;
+}
+
+.code-variable-type {
+    color: $code-variable-type;
+}
+
+.code-variable-extension {
+    color: $code-variable-extension;
+}
+
+.code-angle {
+    color: $code-angle;
+}
+
+.code-bracket {
+    color: $code-bracket;
+}
+
+.code-semicolon {
+    color: $code-semicolon;
+}
+
+.code-variable-start {
+    color: $code-variable-start;
+}

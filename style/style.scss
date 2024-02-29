@@ -1,0 +1,29 @@
+@import 'col/dark.scss';
+
+//Title
+#title{
+    overflow:hidden !important;
+}
+
+.title{
+    text-align: center;
+    font-size: 10vw;
+    font-family: "Spline Sans", sans-serif;
+}
+#title-main{
+    color: $text;
+    transform: translateX(-10vw) translateY(10vh);
+    -webkit-transform: translateX(-10vw) translateY(10vh);
+    -moz-transform: translateX(-10vw) translateY(10vh);
+    -ms-transform: translateX(-10vw) translateY(10vh);
+    -o-transform: translateX(-10vw) translateY(10vh);
+}
+
+#title-secondary{
+    color: $text-darken;
+    transform: translateX(10vw) translateY(4vh);
+    -webkit-transform: translateX(10vw) translateY(4vh);
+    -moz-transform: translateX(10vw) translateY(4vh);
+    -ms-transform: translateX(10vw) translateY(4vh);
+    -o-transform: translateX(10vw) translateY(4vh);
+}

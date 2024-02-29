@@ -5,13 +5,4 @@ body {
   background-color: #181618;
   margin: 0;
   min-height: 100vh;
-  -webkit-mask-image: radial-gradient(circle at 50% 50%, rgb(0, 0, 0) 0%, transparent 100%);
-          mask-image: radial-gradient(circle at 50% 50%, rgb(0, 0, 0) 0%, transparent 100%);
-  -webkit-mask-size: 10vw 10vw;
-          mask-size: 10vw 10vw;
-  -webkit-mask-position: 0px 0px;
-          mask-position: 0px 0px;
-  mask-type: alpha;
-  -webkit-mask-repeat: no-repeat;
-          mask-repeat: no-repeat;
 }/*# sourceMappingURL=background.css.map */

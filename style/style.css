@@ -1,0 +1,27 @@
+#title {
+  overflow: hidden !important;
+}
+
+.title {
+  text-align: center;
+  font-size: 10vw;
+  font-family: "Spline Sans", sans-serif;
+}
+
+#title-main {
+  color: #EFEFEF;
+  transform: translateX(-10vw) translateY(10vh);
+  -webkit-transform: translateX(-10vw) translateY(10vh);
+  -moz-transform: translateX(-10vw) translateY(10vh);
+  -ms-transform: translateX(-10vw) translateY(10vh);
+  -o-transform: translateX(-10vw) translateY(10vh);
+}
+
+#title-secondary {
+  color: #dadada;
+  transform: translateX(10vw) translateY(4vh);
+  -webkit-transform: translateX(10vw) translateY(4vh);
+  -moz-transform: translateX(10vw) translateY(4vh);
+  -ms-transform: translateX(10vw) translateY(4vh);
+  -o-transform: translateX(10vw) translateY(4vh);
+}/*# sourceMappingURL=style.css.map */
